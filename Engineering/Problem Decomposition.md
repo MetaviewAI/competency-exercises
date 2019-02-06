@@ -2,7 +2,7 @@
 
 At Metaview, there are humans, Data Annotators (DAs), in the loop when processing data. We think it’s right for this to be the case for the foreseeable future.
 
-Currently, once the audio for an interview has been transcribed, using one of the many potential services (e.g. [Temi](https://www.temi.com), [AWS Transcribe](https://aws.amazon.com/transcribe/), [Google Speech-to-Text](https://cloud.google.com/speech-to-text/)), our DAs need to modify the transcription to:
+Let's assume once the audio for an interview has been transcribed, using one of the many potential services (e.g. [Temi](https://www.temi.com), [AWS Transcribe](https://aws.amazon.com/transcribe/), [Google Speech-to-Text](https://cloud.google.com/speech-to-text/)), our DAs need to modify the transcription to:
 
 - Ensure the speaker diarization is 100% accurate.
 - Ensure the transcription of the interviewer and candidate questions are as close to 100% accurate as possible.
