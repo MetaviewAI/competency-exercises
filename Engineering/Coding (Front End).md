@@ -11,6 +11,6 @@ Let's assume once the audio for an interview has been transcribed, using one of 
 In order to have maximal control over this process, we need to develop our own internal tooling and products. In the long run, we want our DAs to be able to do more cleansing and labelling in the same amount of time.
 In this exercise, we want you to write a design doc for the full stack implementation of such product.
 
-**In this exercise, we want you to build the front end on a product that'll help our DAs to the tasks above. You can use any technology you want but it would be preferable if you used React and/or TypeScript.**
+**In this exercise, we want you to build the front end of a product that'll help our DAs to the tasks above. You can use any technology you want but it would be preferable if you used React and/or TypeScript.**
 
 *Please don't spend more than 10 hours on this task.*
