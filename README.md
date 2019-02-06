@@ -7,6 +7,6 @@
     Metaview's Competency Exercises
 </h1>
 
-👋🏼 Welcome to the Metaview's repository of competency exercises.
+👋🏼 Welcome to Metaview's repository of competency exercises.
 
 **If you're interested in joining us, the best place to start is [metaview.ai/careers](https://www.metaview.ai/careers).**
