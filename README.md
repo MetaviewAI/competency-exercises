@@ -6,6 +6,7 @@
 <h1 align="center">
     Metaview's Competency Exercises
 </h1>
+<br />
 
 👋🏼 Welcome to Metaview's repository of competency exercises.
 
