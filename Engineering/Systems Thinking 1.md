@@ -15,6 +15,5 @@ In this data processing pipeline, we want to maximise:
 3. **⛸ Velocity:** We need our Data Annotators to experience as little friction as possible when cleaning and labelling data.
 
 In order to have maximal control over this process, we need to develop our own internal tooling and products. In the long run, we want our DAs to be able to do more cleansing and labelling in the same amount of time.
-In this exercise, we want you to write a design doc for the full stack implementation of such product.
 
 **In this exercise, we want you to write a [design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c) for the full stack implementation of such product.**
