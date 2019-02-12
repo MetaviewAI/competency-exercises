@@ -10,7 +10,7 @@ At Metaview, we give our customers their interview analytics no matter what the 
 
 We need this product to have the following characteristics:
 
-1. **Delightful:**: The customer experience must be delightful and with as little friction as possible.
+1. **Delightful:** The customer experience must be delightful and as frictionless as possible.
 2. **Extensible:** Amongst our current customers, [Google Meet](https://meet.google.com) is the most common video conferencing tool. However, we'd need this product to be easily extended to support other types of providers (e.g. [Zoom](https://zoom.us/)) as and when required.
 3. **Observable:** We'd need to be able to have insight into which video conference sessions are coming up, currently being recorded, and have been recorded. When issues arise (e.g. we miss audio-minutes), we'd also need to have enough information so that our debugging efforts are not entirely blind.
 
