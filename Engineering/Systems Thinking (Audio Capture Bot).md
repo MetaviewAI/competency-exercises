@@ -28,4 +28,5 @@ We're using this exercise as a means to learn more about your way of:
 
 <br />
 <br />
-<sup>1</sup> Feel free to write the document however you want. In case it's helpful, [here's one opinion on how to write software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c).
+
+<sup>1</sup> Feel free to write the document however you want. In case it's helpful, [here's one opinion on how to write software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
