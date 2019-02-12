@@ -4,7 +4,7 @@ At Metaview, there are humans, Data Annotators (DAs), in the loop when processin
 
 Let's assume once the audio for an interview has been transcribed, using one of the many potential services (e.g. [Temi](https://www.temi.com), [AWS Transcribe](https://aws.amazon.com/transcribe/), [Google Speech-to-Text](https://cloud.google.com/speech-to-text/)), our DAs need to modify the transcription to:
 
-- Ensure the speaker diarization is 100% accurate.
+- Ensure the [speaker diarisation](https://en.wikipedia.org/wiki/Speaker_diarisation) is 100% accurate.
 - Ensure the transcription of the interviewer and candidate questions are as close to 100% accurate as possible.
 - Ensure relevant interviewer and candidate questions are labelled with specific categories (e.g. problem solving, team composition)
 
