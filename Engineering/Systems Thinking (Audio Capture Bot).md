@@ -10,9 +10,9 @@ At Metaview, we give our customers their interview analytics no matter what the 
 
 We need this product to have the following characteristics:
 
-1. **Delightful:** The customer experience must be delightful and as frictionless as possible.
-2. **Extensible:** Amongst our current customers, [Google Meet](https://meet.google.com) is the most common video conferencing tool. However, we'd need this product to be easily extended to support other types of providers (e.g. [Zoom](https://zoom.us/)) as and when required.
-3. **Observable:** When issues arise (e.g. we miss audio-minutes), we'd need to have enough information so that our debugging efforts are not entirely blind.
+1. **🤗 Delightful:** The customer experience must be delightful and as frictionless as possible.
+2. **🏗 Extensible:** Amongst our current customers, [Google Meet](https://meet.google.com) is the most common video conferencing tool. However, we'd need this product to be easily extended to support other types of providers (e.g. [Zoom](https://zoom.us/)) as and when required.
+3. **👀 Observable:** When issues arise (e.g. we miss audio-minutes), we'd need to have enough information so that our debugging efforts are not entirely blind.
 
 ### Scope and Expectations
 
@@ -22,9 +22,9 @@ The scope of the design doc should be for the quickest shippable implementation 
 
 We're using this exercise as a means to learn more about your:
 
-- **Technical breadth:** Ability to design an end-to-end system satisfying the desired core characteristics.
-- **Way with words:** Ability to communicate with customers, other technical teams, and non-technical stakeholders to collect requirements and to describe software product features and technical designs.
-- **Knack for making the right trade-offs:** Ability to know when it makes sense to take the quick and dirty vs. the scalable approach.
+- **🐙 Technical breadth:** Ability to design an end-to-end system satisfying the desired core characteristics.
+- **🗣 Way with words:** Ability to communicate with customers, other technical teams, and non-technical stakeholders to collect requirements and to describe software product features and technical designs.
+- **🚀 Knack for making the right trade-offs:** Ability to know when it makes sense to take the quick and dirty vs. the scalable approach.
 
 <br />
 <br />
