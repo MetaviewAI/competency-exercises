@@ -12,7 +12,7 @@ We need this product to have the following characteristics:
 
 1. **🤗 Delightful:** The customer experience must be delightful and as frictionless as possible.
 2. **🏗 Extensible:** Amongst our current customers, [Google Meet](https://meet.google.com) is the most common video conferencing tool. However, we'd need this product to be easily extended to support other types of providers (e.g. [Zoom](https://zoom.us/)) as and when required.
-3. **👀 Observable:** When issues arise (e.g. we miss audio-minutes), we'd need to have enough information so that our debugging efforts are not entirely blind.
+3. **👀 Observable:** When issues arise (e.g. the application crashes), we'd need to have enough information so that our debugging efforts are not entirely blind.
 
 ### Scope and Expectations
 
