@@ -24,7 +24,7 @@ We're using this exercise as a means to learn more about your:
 
 - **Technical breadth:** Ability to design an end-to-end system satisfying the desired core characteristics.
 - **Way with words:** Ability to communicate with customers, other technical teams, and non-technical stakeholders to collect requirements and to describe software product features and technical designs.
-- **Knack for making the right trade-offs:** You ability to know when it makes sense to take the quick and dirty vs. the scalable approach.
+- **Knack for making the right trade-offs:** Ability to know when it makes sense to take the quick and dirty vs. the scalable approach.
 
 <br />
 <br />
