@@ -4,7 +4,7 @@
 
 At Metaview, we give our customers their interview analytics no matter what the interview medium. Some interviews are in person, some are over video conference, and some are on the phone. As such, we need to have tools/products that enable us to capture the audio in any of these scenarios. Since we do our analysis on audio, we *don't* need these tools/products to capture the video, even if possible.
 
-### Product
+### Product Statement
 
 **In this exercise, we want you to write a design doc<sup>1</sup> for the full stack implementation of a product that captures the audio in video conferences.**
 
