@@ -16,7 +16,7 @@ We need this product to have the following characteristics:
 
 ### Scope and Expectations
 
-The scope of the design doc should be for the quickest shippable implementation of this product. We appreciate this exercise is open-ended. We don't expect you to spend more than 6-8 hours on it.
+The scope of the design doc should be for the quickest shippable implementation of this product. We appreciate this exercise is open-ended. We don't expect you to spend more than 6 hours on it.
 
 ### Evaluation
 
