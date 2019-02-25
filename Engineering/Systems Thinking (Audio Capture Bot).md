@@ -4,7 +4,7 @@
 
 At Metaview, we give our customers their interview analytics no matter what the interview medium. Some interviews are in person, some are over video conference, and some are on the phone. As such, we need to have tools/products that enable us to capture the audio in any of these scenarios. Since we do our analysis on audio, we *don't* need these tools/products to capture the video, even if possible.
 
-### Product Statement
+### Product
 
 **In this exercise, we want you to write a design doc<sup>1</sup> for the full stack implementation of a product that captures the audio in video conferences.**
 
@@ -14,7 +14,7 @@ We need this product to have the following characteristics:
 2. **🏗 Extensible:** Amongst our current customers, [Google Meet](https://meet.google.com) is the most common video conferencing tool. However, we'd need this product to be easily extended to support other types of providers (e.g. [Zoom](https://zoom.us/)) as and when required.
 3. **👀 Observable:** When issues arise (e.g. the application crashes), we'd need to have enough information so that our debugging efforts are not entirely blind.
 
-### Scope and Expectations
+### Scope
 
 The scope of the design doc should be for the quickest shippable implementation of this product. We appreciate this exercise is open-ended. We don't expect you to spend more than 6 hours on it.
 
