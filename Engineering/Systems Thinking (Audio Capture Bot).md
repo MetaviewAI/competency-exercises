@@ -2,7 +2,7 @@
 
 ### Background
 
-At Metaview, we give our customers their interview analytics no matter what the interview medium. Some interviews are in person, some are over video conference, and some are on the phone. As such, we need to have tools/products that enable us to capture the audio in any of these scenarios. Since we do our analysis on audio, we *don't* need these tools/products to capture the video, even if possible.
+At Metaview, we give our customers their interview analytics no matter what the interview medium. Some interviews are in person, some are over video conference, and some are on the phone. As such, we need to have tools/products that enable us to capture the audio in any of these scenarios. Since we do our analysis on audio, we *don't* need these tools/products to capture the video.
 
 ### Product
 
