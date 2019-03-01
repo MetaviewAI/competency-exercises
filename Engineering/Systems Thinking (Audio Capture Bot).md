@@ -6,7 +6,7 @@ At Metaview, we give our customers their interview analytics no matter what the 
 
 ### Product
 
-**In this exercise, we want you to write a design doc<sup>1</sup> for the full stack implementation of a product that captures the audio in video conferences.**
+**In this exercise, we want you to put on your Tech Lead hat and lead the discussion for the full stack implementation of a product that captures the audio in video conferences. If you prefer to collect your thoughts in written format, we'd encourage your output to be a design doc<sup>1</sup>. Alternatively, you can prepare your thoughts however you wish and share them with us over a conversation.**
 
 We need this product to have the following characteristics:
 
