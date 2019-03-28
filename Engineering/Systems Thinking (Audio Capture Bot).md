@@ -1,4 +1,4 @@
-## Audio Capture Bot
+## 🤖 Audio Capture Bot
 
 ### Background
 
