@@ -6,7 +6,8 @@
 <h1 align="center">
     Metaview's Competency Exercises
 </h1>
-<br />
+
+[![CircleCI](https://circleci.com/gh/MetaviewAI/competency-exercises.svg?style=svg)](https://circleci.com/gh/MetaviewAI/competency-exercises)
 
 👋🏼 Welcome to Metaview's repository of competency exercises.
 
