@@ -1,0 +1,11 @@
+version: 2
+jobs:
+    build:
+        docker:
+            - image: circleci/node:latest
+
+        steps:
+            - run: sudo apt-get install aspell
+            - run: sudo apt-get install aspell-en
+            - run: cat Engineering/Systems\ Thinking\ \(Audio\ Capture\ Bot\).md | aspell list --personal=./dictionary.txt
+            - run: cat Engineering/Full\ Stack\ Capability\ \(Calendly\ Integration\).md | aspell list --personal=./dictionary.txt
