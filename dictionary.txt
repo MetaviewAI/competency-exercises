@@ -13,7 +13,6 @@ href
 img
 Metaview
 Metaview's
-Monzo
 scalable
 shippable
 src
