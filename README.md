@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.metaview.ai">
-    <img alt="Monzo favicon" src="https://s3.eu-west-2.amazonaws.com/metaview-assets/metaview-symbol.png" width="60" />
+    <img alt="Metaview" src="https://s3.eu-west-2.amazonaws.com/metaview-assets/metaview-symbol.png" width="60" />
   </a>
 </p>
 <h1 align="center">
