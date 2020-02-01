@@ -6,6 +6,5 @@ jobs:
 
         steps:
             - checkout
-            - run: sudo apt-get install aspell
-            - run: sudo apt-get install aspell-en
+            - run: sudo apt-get install aspell aspell-en
             - run: find . -name "*.md" -exec cat '{}' \; | aspell list --personal=./dictionary.txt
