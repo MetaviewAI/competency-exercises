@@ -17,7 +17,7 @@ Also, we need this product to have the following characteristics:
 
 1. **🤗 Frictionless:** The customer should swiftly be on the shortest path to their desired outcome.
 2. **🧰 Utilitarian:** The product should be useful and practical, without unnecessary distractions.
-3. **🦋 Beautiful:** Beauty is felt with the heart; we want the product's customers to share this sentiment.
+3. **🦋 Beautiful:** Beauty is felt with the heart; we want this product's customers to share this sentiment.
 
 ### Expectations
 
