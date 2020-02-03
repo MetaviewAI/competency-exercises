@@ -21,7 +21,7 @@ Also, we need this product to have the following characteristics:
 
 ### Expectations
 
-The scope of your execution should be for the quickest shippable implementation of this product. This exercise is intentionally open-ended and you're not expected to "finish" it. We expect to spend no more than an hour on this exercise.
+We're aiming to **get something working** within the time allotted for the interview, however, this exercise is intentionally open-ended and it's up to you to decide on what can be done in the time available. We expect to spend no more than an hour on this exercise.
 
 ### Evaluation
 
