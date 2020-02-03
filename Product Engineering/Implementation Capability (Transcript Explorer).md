@@ -21,7 +21,7 @@ Also, we need this product to have the following characteristics:
 
 ### Expectations
 
-We're aiming to **get something working** within the time allotted for the interview, however, this exercise is intentionally open-ended and it's up to you to decide on what can be done in the time available. We expect to spend no more than an hour on this exercise.
+We're aiming to **get something simple working** within the time allotted for the interview, however, this exercise is intentionally open-ended and it's up to you to decide on what can be done in the time available. We expect to spend no more than an hour on this exercise.
 
 ### Evaluation
 
