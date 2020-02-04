@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-    Metaview's Competency Exercises
+    Metaview Interview Exercises
 </h1>
 
 [![CircleCI](https://circleci.com/gh/MetaviewAI/competency-exercises.svg?style=svg)](https://circleci.com/gh/MetaviewAI/competency-exercises)
