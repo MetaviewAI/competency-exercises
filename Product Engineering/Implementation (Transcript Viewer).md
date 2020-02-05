@@ -8,9 +8,9 @@ Amongst other things, transcripts help the participants navigate the conversatio
 
 ### Exercise
 
-**In this exercise, we want you to implement a [command-line application](https://en.wikipedia.org/wiki/Command-line_interface) that enables a customer to view the transcript of one of their conversations.**
+**In this exercise, we will provide a transcript in our internal JSON representation, and we want you to implement a program that displays this transcript in the console, in a way that can be read easily by a human.**
 
-We'll provide a basic repository, in your preferred language, with boilerplate like file-loading already set up so you can dive straight in. The input to this application will be a [JSON](https://en.wikipedia.org/wiki/JSON) file representing the transcript and its associated metadata.
+We'll provide a basic repository, in your preferred language, with boilerplate like file-loading already set up so you can dive straight in. The input to this application will be a JSON file representing the transcript and its associated metadata.
 
 To get you started, here are some of the outcomes, in order of importance, our customers may want to achieve with this product:
 
