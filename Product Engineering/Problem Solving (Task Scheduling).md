@@ -6,7 +6,7 @@ At Metaview, we have a complex data pipeline that turns raw data into data that'
 
 ### Exercise
 
-**In this exercise, we want you to implement an application that coordinates the scheduling/allocation of a large number of tasks.**
+**In this exercise, we want you to implement an application that exploits Data Annotator parallelism to complete the entire set of a large number of tasks, as quickly as possible.**
 
 We will define a list of tasks, and their dependencies, in a JSON file that looks like this:
 
