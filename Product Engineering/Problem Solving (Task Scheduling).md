@@ -14,23 +14,23 @@ We will define a list of tasks, and their dependencies, in a JSON file that look
 {
     "tasks": [
         {
-			"taskId": 0,
+	    "taskId": 0,
             "taskType": "speaker-identification",
             "expectedTurnaroundTime": 50,
         },
         {
-			"taskId": 1,
+	    "taskId": 1,
             "taskType": "question-detection",
             "expectedTurnaroundTime": 100,
         },
         {
-			"taskId": 2,
+	    "taskId": 2,
             "taskType": "speech-splitting",
             "expectedTurnaroundTime": 800,
             "dependsOn": [0]
         },
         {
-			"taskId": 3,
+	    "taskId": 3,
             "taskType": "closed-question-detection",
             "expectedTurnaroundTime": 50,
             "dependsOn": [2]
